@@ -49,7 +49,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <!-- GitHub Snake 动画 -->
-  <img src="https://raw.githubusercontent.com/YifeiZhang/YifeiZhang/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/zyf265600/zyf265600/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
 
