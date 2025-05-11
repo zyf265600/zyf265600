@@ -14,7 +14,7 @@
 
 🔭 I’m currently studying **Computer Engineering** at **University of Waterloo**
 
-💬 Feel free to open an issue **[here](https://github.com/YifeiZhang/YifeiZhang/issues)** to ask me anything
+💬 Feel free to open an issue **[here](https://github.com/YifeiZhang/YifeiZhang/issues](https://github.com/zyf265600/zyf265600/issues)** to ask me anything
 
 </div>
 
